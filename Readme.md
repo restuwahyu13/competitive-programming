@@ -1,10 +1,10 @@
 ## Competitive Programming Exercises
 
-Berikut ini adalah beberapa kumpulan soal yang telah saya kerjakan, dari tempat latihan `Coding Competitive Programming` seperti **Leetcode** dan **Edabit**, kemudian saya hanya mengambil beberapa sample saja yang kemudian saya rubah soalnya kedalam versi **Bahasa Indonesia**, agar lebih mudah dipahami khusunya oleh orang **Indonesia**, untuk tingkat kesulitan soal itu sendiri sangat bervariasi mulai dari **Easy**, **Medium**, **Hard** sampai ** Very Hard**.
+Berikut ini adalah beberapa kumpulan soal yang telah saya kerjakan, dari tempat latihan `Coding Competitive Programming` seperti **Leetcode** dan **Edabit**, kemudian saya hanya mengambil beberapa sample saja yang kemudian saya rubah soalnya kedalam versi **Bahasa Indonesia**, agar lebih mudah dipahami khusunya oleh orang **Indonesia**, untuk tingkat kesulitan soal itu sendiri sangat bervariasi mulai dari **Easy**, **Medium**, **Hard** sampai **Very Hard**.
 
 ### Kenapa saya membuat ini ?
 
-dikarenakan menurut saya latihan soal `Competitive Programming` sangatlah membantu untuk meningkatkan **Logic** cara berpikir kita untuk melakukan **Problem Solving**, `kenapa kok bisa ?` meningkatkan kemapuan **Problem Solving**, kalau menurut pendapat saya dikarenakan kita ditutut untuk menyelesaikan sebuah soal yang diberikan, dimana soal tersebut hanya bisa diselesaikan jika setiap **code** yang kita tuliskan itu benar dan akan melemparkan pesan kesalahan jika setiap **code** yang kita tuliskan itu salah dan jika kita implementasikan ke **Real Project** sama halnya jika kita ingin membuat sebuah feature baru pada **Aplikasi** yang kita buat, feature tersebut hanya akan berjalan jika setiap **code** yang kita tuliskan itu benar.
+dikarenakan menurut saya latihan soal `Competitive Programming` sangatlah membantu untuk meningkatkan **Logic** cara berpikir kita untuk melakukan **Problem Solving**, `kenapa kok bisa ?` meningkatkan kemapuan **Problem Solving**, kalau menurut pendapat saya dikarenakan kita ditutut untuk menyelesaikan sebuah soal yang diberikan, dimana soal tersebut hanya bisa diselesaikan jika setiap **code** yang kita tuliskan itu benar dan akan melemparkan pesan kesalahan jika setiap **code** yang kita tuliskan itu salah dan jika kita implementasikan ke **Real Project** sama halnya jika kita ingin membuat sebuah feature baru pada sebuah **Aplikasi** yang sedang kita buat, feature tersebut hanya akan berjalan jika setiap **code** yang kita tuliskan itu benar.
 
 ### Apakah rules dari soal ini ?
 

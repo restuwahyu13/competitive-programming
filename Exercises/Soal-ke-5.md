@@ -20,7 +20,7 @@ Buatlah sebuah fungsi untuk menghitung instans dari setiap karakter dalam sebuah
 charCount('b', 'big fat bubble') ➞ 4
 charCount('c', 'Chamber of secrets') ➞ 1
 charCount('f', 'frank and his friends have offered five foxes for sale') ➞ 7
-charCount('x', 'edabit'), 0)
+charCount('x', 'edabit') ➞ 0
 charCount('a', 'Adam and Eve bit the apple and found a snake') ➞ 6
 charCount('7', '10795426697') ➞ 2
 ```
@@ -31,17 +31,17 @@ Buatlah sebuah fungsi untuk menentukan sebuah karakter yang berulang, yang diman
 
 **Output:**
 ```javascript
-doubleChar("String"), "SSttrriinngg")
-doubleChar("Hello World!"), "HHeelllloo  WWoorrlldd!!")
-doubleChar("1234!_ "), "11223344!!__  ")
-doubleChar("##^&%%*&%%$#@@!"), "####^^&&%%%%**&&%%%%$$##@@@@!!")
-doubleChar(" "), "  ")
-doubleChar("_______"), "______________")
+doubleChar("String") ➞ "SSttrriinngg"
+doubleChar("Hello World!") ➞ "HHeelllloo  WWoorrlldd!!"
+doubleChar("1234!_ ") ➞ "11223344!!__  "
+doubleChar("##^&%%*&%%$#@@!") ➞ "####^^&&%%%%**&&%%%%$$##@@@@!!"
+doubleChar(" ") ➞ "  "
+doubleChar("_______") ➞ "______________"
 ```
 
 #### 4.factorChain
 
-Buatlah sebuah fungsi untuk menentukan Faktor Rantai dari sebuah bilangan bulat yang berada didalam sebuah Array, yang dimana setiap element sebelumnya adalah faktor dari element berikutnya secara berturut-turut, Berikut ini adalah contoh rantai faktor dari [3, 6, 12, 36]
+Buatlah sebuah fungsi untuk menentukan Faktor Rantai dari sebuah bilangan bulat yang berada didalam sebuah Array, yang dimana setiap element sebelumnya adalah faktor dari element berikutnya secara berturut - turut, Berikut ini adalah contoh rantai faktor dari [3, 6, 12, 36]
 
 3 adalah faktor dari 6
 6 adalah faktor dari 12
@@ -109,7 +109,7 @@ replaceVowel("thamel") ➞ "th1m2l"
 
 #### 8.anagram
 
-Buatlah sebuah fungsi untuk menghasilkan kata-kata dari sebuah nama yang telah disediakan, kembalikan nilai true jika nama yang diberikan dapat menghasilkan sebuah kata-kata seperti yang berada didalam sebuah Array, jika nama nya tidak sama dengan kata-kata yang berada didalam sebuah Array maka kembalikan nilai false, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Boolean seperti dibawah ini.
+Buatlah sebuah fungsi untuk menghasilkan kata - kata dari sebuah nama yang telah disediakan, kembalikan nilai true jika nama yang diberikan dapat menghasilkan sebuah kata - kata seperti yang berada didalam sebuah Array, jika nama nya tidak sama dengan kata - kata yang berada didalam sebuah Array maka kembalikan nilai false, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Boolean seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -141,7 +141,7 @@ minSwaps("10011001", "01100110") ➞ 4
 
 #### 10.balancedWords
 
-Buatlah sebuah fungsi untuk menentukan kata-kata yang seimbang, kita dapat menetapkan nilai untuk setiap karakter dalam sebuah kata berdasarkan posisi mereka dalam Alfabet (a = 1, b = 2, ..., z = 26), sebuah kata yang dikatakan seimbang adalah salah satu dimana jumlah nilai di sisi kiri dari kata sama dengan jumlah dari nilai-nilai dari sisi kanan, semua kata akan menjadi huruf kecil dan memiliki minimal 2 karakter, kata-kata yang termasuk palindrom akan selalu seimbang, jika kata-kata masuk dalam kata - kata yang seimbang maka kembalikan nilai true dan jika tidak termasuk dalam kata - kata yang tidak seimbang maka kembalikan nilai false, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Boolean seperti dibawah ini.
+Buatlah sebuah fungsi untuk menentukan kata - kata yang seimbang, kita dapat menetapkan nilai untuk setiap karakter dalam sebuah kata berdasarkan posisi mereka dalam Alfabet (a = 1, b = 2, ..., z = 26), sebuah kata yang dikatakan seimbang adalah salah satu dimana jumlah nilai disisi kiri dari kata sama dengan jumlah dari nilai - nilai dari disisi kanan, semua kata akan menjadi huruf kecil dan memiliki minimal 2 karakter, kata - kata yang termasuk Palindrom akan selalu seimbang, jika karakternya termasuk dalam kata - kata yang seimbang maka kembalikan nilai true dan jika tidak termasuk dalam kata - kata yang tidak seimbang maka kembalikan nilai false, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Boolean seperti dibawah ini.
 
 **Outputnya:**
 ```javascript

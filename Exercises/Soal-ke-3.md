@@ -1,11 +1,11 @@
 #### 1.uncensoredString
 
-Buatlah sebuah fungsi apakah ada seseorang yang telah berusaha untuk menyensor komentar yang saya tulis, dengan mengganti setiap karakternya dengan seperti ini l*k* th*s, untungnya saya dapat mengembalikan komentar yang telah disensor tersebut, tugas anda adalah harus mengembalikan sebuah karakter komentar yang telah di sensor tersebut, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah String seperti dibawah ini.
+Buatlah sebuah fungsi apakah ada seseorang yang telah berusaha untuk menyensor komentar yang saya tulis, dengan mengganti setiap karakternya menjadi seperti ini l*k* th*s, untungnya saya dapat mengembalikan komentar yang telah disensor tersebut, tugas anda adalah harus mengembalikan sebuah komentar yang telah di sensor tersebut, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah String seperti dibawah ini.
 
 **Output:**
 ```javascript
 uncensoredString('Wh*r* d*d my v*w*ls g*?', 'eeioeo') ➞ 'Where did my vowels go?'
-uncensoredString('abcd', '') ➞ 'abcd',
+uncensoredString('abcd', '') ➞ 'abcd'
 uncensoredString('*PP*RC*S*', 'UEAE') ➞ 'UPPERCASE'
 uncensoredString('*l*ph*nt', 'Eea') ➞ 'Elephant'
 ```
@@ -28,7 +28,7 @@ happyNumber(107) ➞ false
 
 #### 3.countIdenticalArrays
 
-Buatlah sebuah fungsi untuk menghitung jumlah Array yang identik, buatlah sebuah fungsi yang menggunakan empat Array sebagai argumennya, kemudian kembalikan jumlah total angka Array yang identik tersebut, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Number seperti dibawah ini.
+Buatlah sebuah fungsi untuk menghitung jumlah Array yang identik, yang menggunakan empat Array sebagai argumennya, kemudian kembalikan jumlah total digit angka Array yang identik tersebut, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Number seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -50,7 +50,7 @@ sevenBoom([2, 55, 60, 97, 86]) ➞ "Boom Exploded"
 
 #### 5.numInStr
 
-Buatlah sebuah fungsi untuk mengambil sebuah angka yang berada didalam Array String, kembalikan String yang hanya memeliki sebuah angka didalamnya, jika tidak ada angka didalam sebuah String maka kembalikan sebuah Array kosong, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
+Buatlah sebuah fungsi untuk mengambil sebuah angka yang berada didalam sebuah Array, kembalikan String yang hanya memiliki sebuah angka didalamnya, jika tidak ada angka didalam sebuah String maka kembalikan sebuah Array kosong, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -64,7 +64,7 @@ numInStr(['-/>', '10bc', 'abc ']) ➞ ['10bc']
 
 #### 6.distanceToNearestVowel
 
-Buatlah sebuah fungsi yang mengambil jarak antara karakter Alphabet terdekat, untuk setiap karakternya harus mengembalikan jarak ke Alphabet terdekat, jika karakternya Alphabet itu sendiri maka kembalikan 0, semua String input akan memeliki setidaknya satu karakter Alphabet, dalam kasus ini anda harus mengunakan karakter Vowels, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
+Buatlah sebuah fungsi yang mengambil jarak antara karakter Alfabet terdekat, untuk setiap karakternya harus mengembalikan jarak ke Alfabet yang terdekat, jika karakternya Alfabet itu sendiri maka kembalikan 0, semua String input akan memiliki setidaknya satu karakter Alfabet, dalam kasus ini anda harus mengunakan huruf Vowels untuk mendapatkan nilainya, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -98,14 +98,14 @@ oddishOrEvenish(43) ➞ "Oddish"
 oddishOrEvenish(373) ➞ "Oddish"
 oddishOrEvenish(55551) ➞ "Oddish"
 oddishOrEvenish(694) ➞ "Oddish"
-oddishOrEvenish(4433), ➞ "Evenish"
+oddishOrEvenish(4433) ➞ "Evenish"
 oddishOrEvenish(11) ➞ "Evenish"
 oddishOrEvenish(211112) ➞ "Evenish"
 ```
 
 #### 9.getHashTags
 
-Buatlah sebuah fungsi untuk memberikan sebuah Hash Tag pada sebuah Judul surat kabar, ambilah 3 kata terpanjang teratas dari Judul surat kabar tersebut dan berikan tanda Hash Tag, jika beberapa kata memiliki panjang yang sama maka ambillah kembali kata yang pertama kali muncul terlebih dahulu, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
+Buatlah sebuah fungsi untuk memberikan sebuah Hash Tag pada sebuah Judul surat kabar, ambilah 3 kata terpanjang teratas dari Judul surat kabar tersebut dan berikan tanda Hash Tag, jika beberapa kata memiliki panjang karakter yang sama maka ambillah kembali kata yang pertama kali muncul terlebih dahulu, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript

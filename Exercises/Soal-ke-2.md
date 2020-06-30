@@ -1,6 +1,6 @@
 #### 1.isFibonacci
 
-1.Buatlah sebuah fungsi untuk merubah angka bilangan bulat mengunakan perhitungan matematik menggunakan Fibonacci seperti output dibawah ini, Fibonacci sangat identik dengan penjumlahan angka dari nilai sebelumnya, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
+1.Buatlah sebuah fungsi untuk merubah angka bilangan bulat menggunakan perhitungan matematik Fibonacci seperti output dibawah ini, Fibonacci sangat identik dengan penjumlahan digit angka dari nilai sebelumnya, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -10,7 +10,7 @@ isFibonacci(8) ➞ [1, 2, 3, 5, 8, 13, 21]
 
 #### 2.isBubleSort
 
-Buatlah sebuah fungsi Array dengan nilai acak seperti dibawah ini, yang dimana nanti Array tersebut harus di urutkan nilainya sesuai dengan urutan angkanya menggunakan algorithm BubleShort, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
+Buatlah sebuah fungsi Array dengan nilai acak seperti dibawah ini, yang dimana nanti Array tersebut harus diurutkan nilainya sesuai dengan urutan angkanya menggunakan algorithm BubleShort, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -20,7 +20,7 @@ isBubleSort([101, 1002, 0, 212, 12, 4, 10]) ➞ [0, 4, 10, 12, 101, 212, 1002]
 
 #### 3.calcDeterminant
 
-Buatlah sebuah fungsi untuk menghitung kalkulasi determinant matrix berikut, yang dimana nilai tersebut akan di hitung dengan metode menyilang seperti huruf X seperti berikut AD - BC, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Number seperti dibawah ini.
+Buatlah sebuah fungsi untuk menghitung kalkulasi determinant matrix berikut, yang dimana nilai tersebut akan dihitung dengan metode menyilang seperti huruf X seperti berikut AD - BC, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Number seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -31,7 +31,7 @@ calcDeterminant([[1, 1], [1, 1]]) ➞ 0
 
 #### 4.middleEarth
 
-Buatlah sebuah fungsi untuk memeriksa sebuah String apakah Ari dan Danang itu posisinya saling berdekatan, jika mereka poisinya saling berdekatan didalam sebuah Array, maka jika benar akan megembalikan nilai true dan jika salah maka akan megembalikan nilai false, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Boolean seperti dibawah ini.
+Buatlah sebuah fungsi untuk memeriksa sebuah String apakah Ari dan Danang itu posisinya saling berdekatan, jika mereka posisinya saling berdekatan didalam sebuah Array, jika benar anda harus megembalikan nilai true dan jika salah maka anda harus megembalikan nilai false, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Boolean seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -43,7 +43,7 @@ middleEarth(['Ruben', 'Ari', 'Restu', 'Danang', 'Arif']) ➞ false
 
 #### 5.firstAndLast
 
-Buatlah sebuah fungsi untuk menentukan String karakter dibawah ini mengunakan cara Leksikografis, Leksikografis adalah cabang ilmu bahasa yang mempelajari tentang teknik penyusunan kamus berdasarkan huruf pertama Alfabet, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
+Buatlah sebuah fungsi untuk menentukan karakter String dibawah ini menggunakan cara Leksikografis, Leksikografis adalah cabang ilmu bahasa yang mempelajari tentang teknik penyusunan kamus berdasarkan huruf pertama Alfabet, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -54,7 +54,7 @@ firstAndLast("anonymous") ➞ ["amnnoosuy", "yusoonnma"]
 
 #### 6.uniqueStyles
 
-Buatlah sebuah fungsi ada berapa banyak karakter unik pada genre musik berikut ini yang ada didalam sebuah Array, yang harus anda lakukan hanyalah mengambil beberapa karakter unik yang tidak memiliki duplicate, kemudian kembalikan jumlah karakter yang berada didalam sebuah Array tersebut, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Number seperti dibawah ini.
+Buatlah sebuah fungsi ada berapa banyak karakter unik pada genre musik berikut ini yang ada didalam sebuah Array, yang harus anda lakukan hanyalah mengambil beberapa karakter unik yang tidak memiliki duplicate, kemudian kembalikan jumlah panjang karakter yang berada didalam sebuah Array tersebut, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Number seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -65,14 +65,14 @@ uniqueStyles(["Arimbi", "Arimbi", "Arimbi"]) ➞ 1
 
 #### 7.lookAndSay
 
-Buatlah sebuah fungsi untuk mengandakan sebuah angka, dimana nantinya angka akan dikelompokan menjadi dua type bagian yaitu Odd dan Even, jika angkanya termasuk type Odd maka akan mengembalikan nilai "salah" dan jika angkanya termasuk type Even maka akan mengembalikan nilai baru, untuk setiap group akan memiliki 2 digit angka, kemudian gabungkan digit angka terakhir yang sama jumlah nya dengan digit angka yang pertama, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Number | String seperti dibawah ini.
+Buatlah sebuah fungsi untuk mengandakan sebuah angka, dimana nantinya angka akan dikelompokan menjadi dua type bagian yaitu Odd dan Even, jika angkanya termasuk type Odd maka akan mengembalikan nilai "salah" dan jika angkanya termasuk type Even maka akan mengembalikan nilai baru, untuk setiap group akan memiliki 2 digit angka kemudian gabungkan digit angka terakhir yang sama jumlah nya dengan digit angka yang pertama, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Number seperti dibawah ini.
 
 **Outputnya:**
 ```javascript
 lookAndSay(95) ➞ 555555555
 lookAndSay(1213141516171819) ➞ 23456789
 lookAndSay(786497) ➞ 8888888444444777777777
-lookAndSay(231) ➞ "salah
+lookAndSay(231) ➞ "salah"
 ```
 
 #### 8.sumDigProd
@@ -102,7 +102,7 @@ profit({hargaBiaya: 19.87, hargaJual: 110.00, modal: 350}) ➞ 31546
 
 #### 10.filterAddress
 
-Buatlah sebuah fungsi untuk mengambil sebuah alamat pada sebuah String mengunakan Reguler Expression, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah String seperti dibawah ini.
+Buatlah sebuah fungsi untuk mengambil sebuah alamat pada sebuah String menggunakan Reguler Expression, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah String seperti dibawah ini.
 
 **Output:**
 ```javascript

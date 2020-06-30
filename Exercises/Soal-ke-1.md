@@ -1,6 +1,6 @@
 #### 1.growUpNumber
 
-Buatlah sebuah fungsi untuk perhitungan mundur dari sebuah angka yang diambil dari parameternya, outputnya harus berupa angka yang menghitung mundur sesuai dengan angka yang diberikan sampai dengan index ke 0, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
+Buatlah sebuah fungsi untuk perhitungan mundur dari sebuah angka yang diambil dari parameternya, outputnya harus berupa angka yang menghitung mundur sesuai dengan digit angka yang diberikan sampai dengan index ke 0, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -72,12 +72,12 @@ Buatlah sebuah fungsi apakah ada sebuah Array String dengan kata-kata acak, yang
 ```javascript
 removeCaracter(["Kambing", "Chapung",  "Kalong"]) ➞ ["Kambing", "Kalong"]
 removeCaracter(["ayam", "kuda", "badak"] ➞ ["ayam", "kuda", "badak"]
-removeCaracter(["Cacing", Bebek", "Cicak", "Beruang"]) ➞ ["Beruang", "Bebek"]
+removeCaracter(["Cacing", "Bebek", "Cicak", "Beruang"]) ➞ ["Beruang", "Bebek"]
 ```
 
 #### 8.matchDictonary
 
-Buatlah sebuah fungsi apakah ada beberapa kata - kata didalam sebuah Array yang cocok dengan inisialnya, jika ada maka anda harus mengembalikan nilai tersebut yang kata - katanya cocok dengan inisialnya, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
+Buatlah sebuah fungsi apakah ada beberapa kata - kata didalam sebuah Array yang cocok dengan inisialnya, jika ada maka anda harus mengembalikan nilai tersebut yang kata - katanya cocok dengan inisialnya yang berada didalam sebuah Array tersebut, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
@@ -88,7 +88,7 @@ matchDictonary("ci", ["ayam", "kampus", "memang", "beda"]) ➞ []
 
 #### 9.additiveInverse
 
-Buatlah sebuah untuk menghitung matematik dengan mengunakan pola Additive Inverse seperti angka berikut dibawah ini, Additive Inverse sangat identik dengan pertukaran angka dari Plus ke Mines begitu juga sebaliknya, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
+Buatlah sebuah fungsi untuk menghitung matematik dengan mengunakan pola Additive Inverse seperti angka berikut dibawah ini, Additive Inverse sangat identik dengan pertukaran angka dari Plus ke Mines begitu juga sebaliknya, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
