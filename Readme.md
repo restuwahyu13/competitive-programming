@@ -28,11 +28,11 @@ jika saya memberitahukan kepada anda jawabanya itu namanya bukan latihan soal, d
 
 ### Berikut daftar list latihan soal (satu soal terdiri dari 10 pertanyaan):
 
-* [Soal Ke 1](https://github.com/restuwahyu13/competitive-programming/blob/master/Soal/Soal-ke-1.md)
-* [Soal Ke 2](https://github.com/restuwahyu13/competitive-programming/blob/master/Soal/Soal-ke-2.md)
-* [Soal Ke 3](https://github.com/restuwahyu13/competitive-programming/blob/master/Soal/Soal-ke-3.md)
-* [Soal Ke 4](https://github.com/restuwahyu13/competitive-programming/blob/master/Soal/Soal-ke-4.md)
-* [Soal Ke 5](https://github.com/restuwahyu13/competitive-programming/blob/master/Soal/Soal-ke-5.md)
+* [Soal Ke 1](https://github.com/restuwahyu13/competitive-programming/blob/master/Exercises/Soal-ke-1.md)
+* [Soal Ke 2](https://github.com/restuwahyu13/competitive-programming/blob/master/Exercises/Soal-ke-2.md)
+* [Soal Ke 3](https://github.com/restuwahyu13/competitive-programming/blob/master/Exercises/Soal-ke-3.md)
+* [Soal Ke 4](https://github.com/restuwahyu13/competitive-programming/blob/master/Exercises/Soal-ke-4.md)
+* [Soal Ke 5](https://github.com/restuwahyu13/competitive-programming/blob/master/Exercises/Soal-ke-5.md)
 
 ### Code editor online:
 
