@@ -49,7 +49,7 @@ Buatlah sebuah fungsi yang mengambil sebuah bilangan bulat, yang dimana bilangan
 ```javascript
 howManyAlphabet(7) ➞ "Laaaaaaamborgini"
 howManyAlphabet(2) ➞ "Laamborgini"
-howManyAlphabet(10) ➞ "Laaaaaaaaaaborgini"
+howManyAlphabet(10) ➞ "Laaaaaaaaaamborgini"
 ```
 
 #### 6.isPalidrome
@@ -72,7 +72,7 @@ Buatlah sebuah fungsi apakah ada sebuah Array String dengan kata-kata acak, yang
 ```javascript
 removeCaracter(["Kambing", "Chapung",  "Kalong"]) ➞ ["Kambing", "Kalong"]
 removeCaracter(["ayam", "kuda", "badak"]) ➞ ["ayam", "kuda", "badak"]
-removeCaracter(["Cacing", "Bebek", "Cicak", "Beruang"]) ➞ ["Beruang", "Bebek"]
+removeCaracter(["Cacing", "Bebek", "Cicak", "Beruang"]) ➞ ["Bebek", "Beruang"]
 ```
 
 #### 8.matchDictionary
@@ -81,7 +81,7 @@ Buatlah sebuah fungsi apakah ada beberapa kata - kata didalam sebuah Array yang 
 
 **Output:**
 ```javascript
-matchDictionary("ku", ["kuda", "kurus", "kece", "kucel"]) ➞ ["kuda", "kurus"]
+matchDictionary("ku", ["kuda", "kurus", "kece", "kucel"]) ➞ ["kuda", "kurus", "kucel"]
 matchDictionary("di", ["diman", "dih", "debora", "deh", 'die']) ➞ ["diman", "dih", "die"]
 matchDictionary("ci", ["ayam", "kampus", "memang", "beda"]) ➞ []
 ```
