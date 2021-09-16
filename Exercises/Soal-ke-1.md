@@ -71,7 +71,7 @@ Buatlah sebuah fungsi apakah ada sebuah Array String dengan kata-kata acak, yang
 **Output:**
 ```javascript
 removeCaracter(["Kambing", "Chapung",  "Kalong"]) ➞ ["Kambing", "Kalong"]
-removeCaracter(["ayam", "kuda", "badak"] ➞ ["ayam", "kuda", "badak"]
+removeCaracter(["ayam", "kuda", "badak"]) ➞ ["ayam", "kuda", "badak"]
 removeCaracter(["Cacing", "Bebek", "Cicak", "Beruang"]) ➞ ["Beruang", "Bebek"]
 ```
 
