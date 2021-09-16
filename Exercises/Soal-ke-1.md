@@ -75,15 +75,15 @@ removeCaracter(["ayam", "kuda", "badak"]) ➞ ["ayam", "kuda", "badak"]
 removeCaracter(["Cacing", "Bebek", "Cicak", "Beruang"]) ➞ ["Beruang", "Bebek"]
 ```
 
-#### 8.matchDictonary
+#### 8.matchDictionary
 
 Buatlah sebuah fungsi apakah ada beberapa kata - kata didalam sebuah Array yang cocok dengan inisialnya, jika ada maka anda harus mengembalikan nilai tersebut yang kata - katanya cocok dengan inisialnya yang berada didalam sebuah Array tersebut, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
-matchDictonary("ku", ["kuda", "kurus", "kece", "kucel"]) ➞ ["kuda", "kurus"]
-matchDictonary("di", ["diman", "dih", "debora", "deh", 'die']) ➞ ["diman", "dih", "die"]
-matchDictonary("ci", ["ayam", "kampus", "memang", "beda"]) ➞ []
+matchDictionary("ku", ["kuda", "kurus", "kece", "kucel"]) ➞ ["kuda", "kurus"]
+matchDictionary("di", ["diman", "dih", "debora", "deh", 'die']) ➞ ["diman", "dih", "die"]
+matchDictionary("ci", ["ayam", "kampus", "memang", "beda"]) ➞ []
 ```
 
 #### 9.additiveInverse
