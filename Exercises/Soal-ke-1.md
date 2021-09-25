@@ -49,7 +49,7 @@ Buatlah sebuah fungsi yang mengambil sebuah bilangan bulat, yang dimana bilangan
 ```javascript
 howManyAlphabet(7) ➞ "Laaaaaaamborgini"
 howManyAlphabet(2) ➞ "Laamborgini"
-howManyAlphabet(10) ➞ "Laaaaaaaaaaborgini"
+howManyAlphabet(10) ➞ "Laaaaaaaaaamborgini"
 ```
 
 #### 6.isPalidrome
@@ -71,19 +71,19 @@ Buatlah sebuah fungsi apakah ada sebuah Array String dengan kata-kata acak, yang
 **Output:**
 ```javascript
 removeCaracter(["Kambing", "Chapung",  "Kalong"]) ➞ ["Kambing", "Kalong"]
-removeCaracter(["ayam", "kuda", "badak"] ➞ ["ayam", "kuda", "badak"]
-removeCaracter(["Cacing", "Bebek", "Cicak", "Beruang"]) ➞ ["Beruang", "Bebek"]
+removeCaracter(["ayam", "kuda", "badak"]) ➞ ["ayam", "kuda", "badak"]
+removeCaracter(["Cacing", "Bebek", "Cicak", "Beruang"]) ➞ ["Bebek", "Beruang"]
 ```
 
-#### 8.matchDictonary
+#### 8.matchDictionary
 
 Buatlah sebuah fungsi apakah ada beberapa kata - kata didalam sebuah Array yang cocok dengan inisialnya, jika ada maka anda harus mengembalikan nilai tersebut yang kata - katanya cocok dengan inisialnya yang berada didalam sebuah Array tersebut, jadi buatlah sebuah fungsi untuk soal berikut ini dan outputnya harus mengembalikan sebuah Array seperti dibawah ini.
 
 **Output:**
 ```javascript
-matchDictonary("ku", ["kuda", "kurus", "kece", "kucel"]) ➞ ["kuda", "kurus"]
-matchDictonary("di", ["diman", "dih", "debora", "deh", 'die']) ➞ ["diman", "dih", "die"]
-matchDictonary("ci", ["ayam", "kampus", "memang", "beda"]) ➞ []
+matchDictionary("ku", ["kuda", "kurus", "kece", "kucel"]) ➞ ["kuda", "kurus", "kucel"]
+matchDictionary("di", ["diman", "dih", "debora", "deh", 'die']) ➞ ["diman", "dih", "die"]
+matchDictionary("ci", ["ayam", "kampus", "memang", "beda"]) ➞ []
 ```
 
 #### 9.additiveInverse
